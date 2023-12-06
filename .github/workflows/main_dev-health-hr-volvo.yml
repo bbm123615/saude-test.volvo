@@ -63,4 +63,4 @@ jobs:
           app-name: 'dev-health-hr-volvo'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E727C64169C34C72B9E4686618C40DD2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_633A041128204A99A377619764AA42A7 }}
